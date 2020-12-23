@@ -1,0 +1,147 @@
+{
+  "stringTable": {
+    "0": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/arm64-v8a",
+    "1": "--target=aarch64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -std=c++11 -frtti -fexceptions -O2 -DNDEBUG -fPIC",
+    "2": "--target=aarch64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security -O2 -DNDEBUG -fPIC"
+  },
+  "buildFiles": [
+    "D:\\set\\androidsdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\Download\\LameAndroid-master\\lame\\CMakeLists.txt",
+    "D:\\set\\androidsdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\set\\androidsdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Download\\LameAndroid-master\\lame\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\set\\androidsdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Download\\LameAndroid-master\\lame\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mp3lame-lib-Release-arm64-v8a": {
+      "buildCommand": "D:\\set\\androidsdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Download\\LameAndroid-master\\lame\\.cxx\\cmake\\release\\arm64-v8a\" mp3lame-lib",
+      "buildType": "release",
+      "toolchain": "1838484288",
+      "abi": "arm64-v8a",
+      "artifactName": "mp3lame-lib",
+      "files": [
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\net_qiujuer_lame_Lame.cpp",
+          "flagsOrdinal": 1,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\VbrTag.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\bitstream.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\encoder.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\fft.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\gain_analysis.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\id3tag.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\lame.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\mpglib_interface.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\newmdct.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\presets.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\psymodel.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\quantize.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\quantize_pvt.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\reservoir.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\set_get.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\tables.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\takehiro.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\util.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\vbrquantize.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        },
+        {
+          "src": "D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\version.c",
+          "flagsOrdinal": 2,
+          "workingDirectoryOrdinal": 0
+        }
+      ],
+      "headers": [],
+      "output": "D:\\Download\\LameAndroid-master\\lame\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libmp3lame-lib.so",
+      "runtimeFiles": []
+    }
+  },
+  "toolchains": {
+    "1838484288": {
+      "cCompilerExecutable": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe",
+      "cppCompilerExecutable": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe"
+    }
+  },
+  "cFileExtensions": [
+    "c"
+  ],
+  "cppFileExtensions": [
+    "cpp"
+  ]
+}

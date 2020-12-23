@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\Download\LameAndroid-master\lame\.cxx\cmake\debug\x86'
+ninja: no work to do.

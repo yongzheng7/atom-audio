@@ -1,0 +1,20 @@
+{
+  "buildFiles": [
+    "D:\\set\\androidsdk\\ndk\\21.3.6528147\\build\\cmake\\platforms.cmake",
+    "D:\\Download\\LameAndroid-master\\lame\\CMakeLists.txt",
+    "D:\\set\\androidsdk\\ndk\\21.3.6528147\\build\\cmake\\android.toolchain.cmake"
+  ],
+  "cleanCommands": [
+    "D:\\set\\androidsdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Download\\LameAndroid-master\\lame\\.cxx\\cmake\\release\\arm64-v8a\" clean"
+  ],
+  "buildTargetsCommand": "D:\\set\\androidsdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe  -C \"D:\\Download\\LameAndroid-master\\lame\\.cxx\\cmake\\release\\arm64-v8a\" {LIST_OF_TARGETS_TO_BUILD}",
+  "libraries": {
+    "mp3lame-lib-Release-arm64-v8a": {
+      "artifactName": "mp3lame-lib",
+      "buildCommand": "D:\\set\\androidsdk\\cmake\\3.10.2.4988404\\bin\\ninja.exe -C \"D:\\Download\\LameAndroid-master\\lame\\.cxx\\cmake\\release\\arm64-v8a\" mp3lame-lib",
+      "abi": "arm64-v8a",
+      "output": "D:\\Download\\LameAndroid-master\\lame\\build\\intermediates\\cmake\\release\\obj\\arm64-v8a\\libmp3lame-lib.so",
+      "runtimeFiles": []
+    }
+  }
+}

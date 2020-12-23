@@ -1,0 +1,3 @@
+D:/Download/LameAndroid-master/lame/.cxx/cmake/debug/x86_64/CMakeFiles/mp3lame-lib.dir
+D:/Download/LameAndroid-master/lame/.cxx/cmake/debug/x86_64/CMakeFiles/edit_cache.dir
+D:/Download/LameAndroid-master/lame/.cxx/cmake/debug/x86_64/CMakeFiles/rebuild_cache.dir

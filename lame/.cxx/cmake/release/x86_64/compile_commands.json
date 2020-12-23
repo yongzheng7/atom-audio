@@ -1,0 +1,127 @@
+[
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang++.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot  -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -std=c++11 -frtti -fexceptions -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\net_qiujuer_lame_Lame.cpp.o -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\net_qiujuer_lame_Lame.cpp",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/net_qiujuer_lame_Lame.cpp"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\VbrTag.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\VbrTag.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/VbrTag.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\bitstream.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\bitstream.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/bitstream.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\encoder.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\encoder.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/encoder.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\fft.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\fft.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/fft.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\gain_analysis.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\gain_analysis.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/gain_analysis.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\id3tag.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\id3tag.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/id3tag.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\lame.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\lame.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/lame.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\mpglib_interface.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\mpglib_interface.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/mpglib_interface.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\newmdct.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\newmdct.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/newmdct.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\presets.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\presets.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/presets.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\psymodel.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\psymodel.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/psymodel.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\quantize.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\quantize.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/quantize.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\quantize_pvt.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\quantize_pvt.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/quantize_pvt.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\reservoir.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\reservoir.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/reservoir.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\set_get.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\set_get.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/set_get.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\tables.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\tables.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/tables.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\takehiro.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\takehiro.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/takehiro.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\util.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\util.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/util.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\vbrquantize.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\vbrquantize.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/vbrquantize.c"
+},
+
+{
+  "directory": "D:/Download/LameAndroid-master/lame/.cxx/cmake/release/x86_64",
+  "command": "D:\\set\\androidsdk\\ndk\\21.3.6528147\\toolchains\\llvm\\prebuilt\\windows-x86_64\\bin\\clang.exe --target=x86_64-none-linux-android21 --gcc-toolchain=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64 --sysroot=D:/set/androidsdk/ndk/21.3.6528147/toolchains/llvm/prebuilt/windows-x86_64/sysroot -Dmp3lame_lib_EXPORTS -I../../../../src/main/cpp/libmp3lame  -g -DANDROID -fdata-sections -ffunction-sections -funwind-tables -fstack-protector-strong -no-canonical-prefixes -D_FORTIFY_SOURCE=2 -Wformat -Werror=format-security  -O2 -DNDEBUG  -fPIC   -o CMakeFiles\\mp3lame-lib.dir\\src\\main\\cpp\\libmp3lame\\version.c.o   -c D:\\Download\\LameAndroid-master\\lame\\src\\main\\cpp\\libmp3lame\\version.c",
+  "file": "D:/Download/LameAndroid-master/lame/src/main/cpp/libmp3lame/version.c"
+}
+]

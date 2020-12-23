@@ -1,0 +1,23 @@
+# ninja log v5
+15	140	630332713	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/fft.c.o	3bb367358df50e7c
+11	154	630332713	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/encoder.c.o	d8c19e69f6708d78
+4	162	630332713	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/VbrTag.c.o	70dc4519a522b1bc
+37	172	630332713	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/mpglib_interface.c.o	7aaa0d94e9c983d4
+18	179	630332713	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/gain_analysis.c.o	9a1fcdc3b2787c39
+7	189	630332713	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/bitstream.c.o	8c386f2b80518b6f
+69	236	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/reservoir.c.o	5d5ab2785be83516
+31	258	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/newmdct.c.o	e03bee53971001a8
+0	265	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/net_qiujuer_lame_Lame.cpp.o	e47c419a59d700a4
+23	266	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/id3tag.c.o	bb1c21ca4c5061e5
+47	274	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/presets.c.o	ab55362ded9761b7
+142	295	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/quantize_pvt.c.o	5fdd5cfc9372cc62
+76	298	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/quantize.c.o	f7d3abda340248e5
+189	300	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/version.c.o	7bd666ad422b6552
+26	301	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/lame.c.o	6e75e85f0784ac0b
+54	331	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/psymodel.c.o	49d544368799286e
+172	336	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/util.c.o	7000b533ffaacfc8
+236	347	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/tables.c.o	94b448909731186b
+162	350	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/takehiro.c.o	94e011594196f68e
+154	351	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/set_get.c.o	5e95c0ecfe17f541
+179	357	630332714	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/vbrquantize.c.o	50e9a1a7396eb54f
+357	433	630332714	../../../../build/intermediates/cmake/debug/obj/x86/libmp3lame-lib.so	36a1411feeda808d
