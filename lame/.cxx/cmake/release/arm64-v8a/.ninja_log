@@ -1,0 +1,23 @@
+# ninja log v5
+49	244	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/mpglib_interface.c.o	2ed384da8c11747f
+18	269	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/fft.c.o	6d1ad0758e9ff9cb
+34	315	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/presets.c.o	b0688ec7b06b0f62
+0	330	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/net_qiujuer_lame_Lame.cpp.o	bf215f70999136db
+22	342	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/encoder.c.o	76e23135e5b8d09c
+10	373	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/gain_analysis.c.o	1789cebc389da184
+106	399	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/reservoir.c.o	728842220642faee
+26	542	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/newmdct.c.o	a81e903e6d9c4226
+7	560	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/VbrTag.c.o	9eac11e819c570e9
+315	602	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/tables.c.o	ba3ce1176b13eb81
+64	622	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/set_get.c.o	b4514da59aa36da2
+409	662	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/version.c.o	338e7e618ce31532
+42	699	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/lame.c.o	e095fb859d04e378
+244	719	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/quantize_pvt.c.o	5eb649ff8e7d01eb
+14	721	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/id3tag.c.o	b1777f75a156d0d4
+374	849	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/util.c.o	1f62cf35eb92b2d7
+331	861	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/takehiro.c.o	11fdb475aa8cca0f
+342	1030	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/vbrquantize.c.o	ac3770e14292b8b
+4	1047	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/bitstream.c.o	4c9e12a163feb3d6
+94	1054	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/quantize.c.o	1e74f8dd7770eb22
+293	1282	630390060	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/psymodel.c.o	5739afcd16a7b7a7
+1282	1375	630390060	../../../../build/intermediates/cmake/release/obj/arm64-v8a/libmp3lame-lib.so	d2066e8e5b49b480

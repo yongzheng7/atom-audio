@@ -1,0 +1,23 @@
+# ninja log v5
+38	126	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/mpglib_interface.c.o	8234fb0bbe1c63e3
+59	219	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/reservoir.c.o	f66c3a3ca4c52b08
+18	244	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/fft.c.o	b8457a1f1fc34aa4
+11	259	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/gain_analysis.c.o	94222dc025cafc1e
+1	274	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/net_qiujuer_lame_Lame.cpp.o	5687b4ed8cad3b27
+43	326	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/presets.c.o	e3e6f9abc7b781fd
+8	338	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/VbrTag.c.o	763d24408e7dfd8c
+22	382	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/encoder.c.o	94865f6e8ace1f5
+26	413	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/newmdct.c.o	1ad0e46ae09c8879
+275	486	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/tables.c.o	6195d5e1aa2e5607
+53	499	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/quantize_pvt.c.o	bbffc1266ed01d3b
+338	505	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/version.c.o	bf33de3de4cb266
+33	603	630390062	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/lame.c.o	167c599b80f35908
+260	623	630390063	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/util.c.o	27d14e935919326b
+221	641	630390063	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/set_get.c.o	7735de73ecd0717e
+48	785	630390063	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/quantize.c.o	bc89671e41fc6b69
+14	797	630390063	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/id3tag.c.o	2a2a8c22d21070a3
+245	798	630390063	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/takehiro.c.o	f1b415708abbaa7a
+326	968	630390063	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/vbrquantize.c.o	d79cfb5e3f323aa1
+127	1067	630390063	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/psymodel.c.o	95ff8f7365a26b4a
+5	1133	630390063	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/bitstream.c.o	9ec4ab7b0fd030ee
+1133	1233	630390063	../../../../build/intermediates/cmake/release/obj/x86_64/libmp3lame-lib.so	18027d7fe95ea835

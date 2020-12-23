@@ -1,0 +1,23 @@
+# ninja log v5
+54	323	630390058	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/mpglib_interface.c.o	8269ddc293894087
+32	362	630390058	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/fft.c.o	7a4aec8f4ac8eda2
+101	383	630390058	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/reservoir.c.o	2934a686f1a99e
+39	409	630390058	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/gain_analysis.c.o	c72001a2b612435c
+65	434	630390058	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/presets.c.o	46fea3814482c1e
+20	455	630390058	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/encoder.c.o	baca69c121c6f761
+11	523	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/net_qiujuer_lame_Lame.cpp.o	40ff3c0473cae728
+6	571	630390058	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/bitstream.c.o	4f450d3a94c5e8df
+1	577	630390058	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/VbrTag.c.o	f3e5c1c2969a5e75
+90	651	630390058	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/newmdct.c.o	dccc8dfa3aa41abf
+115	656	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/set_get.c.o	7618728bd02a3d98
+15	667	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/id3tag.c.o	64495fcc737eef4a
+455	676	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/tables.c.o	85f6ea37eac2b984
+74	713	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/lame.c.o	829283bf3410bf2f
+524	730	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/version.c.o	ff2283edd65c6c5b
+363	740	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/quantize_pvt.c.o	4e840427944d7ba8
+384	749	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/util.c.o	f25ee27fdcd4deb0
+130	845	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/psymodel.c.o	7ac761d48f37e176
+409	868	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/takehiro.c.o	c6bf5e365fe3f5bc
+434	896	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/vbrquantize.c.o	e7f176e1a73a14b0
+323	912	630390059	CMakeFiles/mp3lame-lib.dir/src/main/cpp/libmp3lame/quantize.c.o	57cee696a259d50d
+913	1015	630390059	../../../../build/intermediates/cmake/release/obj/armeabi-v7a/libmp3lame-lib.so	eca92572f73e8aa1

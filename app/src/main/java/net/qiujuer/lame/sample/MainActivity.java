@@ -1,7 +1,12 @@
 package net.qiujuer.lame.sample;
 
+import android.Manifest;
 import android.annotation.SuppressLint;
+import android.content.pm.PackageManager;
 import android.os.Bundle;
+import android.support.v4.app.ActivityCompat;
+import android.support.v4.app.FragmentActivity;
+import android.support.v4.content.ContextCompat;
 import android.support.v7.app.AppCompatActivity;
 import android.util.Log;
 import android.view.MotionEvent;
@@ -19,6 +24,18 @@ public class MainActivity extends AppCompatActivity {
     private AudioPlayHelper<Object> mAudioPlayHelper;
     private TextView mStatusText;
 
+    protected boolean checkPremissions(int code, String... permissions) {
+        boolean hasPremissions = true;
+        for (String permission : permissions) {
+            hasPremissions = ContextCompat.checkSelfPermission(this, permission) == PackageManager.PERMISSION_GRANTED;
+        }
+        if (!hasPremissions) {
+            ActivityCompat.requestPermissions(this, permissions, code);
+            return false;
+        }
+        return true;
+    }
+
     @SuppressLint("ClickableViewAccessibility")
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -31,16 +48,22 @@ public class MainActivity extends AppCompatActivity {
         record.setOnTouchListener(new View.OnTouchListener() {
             @Override
             public boolean onTouch(View v, MotionEvent event) {
-                switch (event.getActionMasked()) {
-                    case MotionEvent.ACTION_DOWN:
-                        onStartRecord();
-                        break;
-                    case MotionEvent.ACTION_CANCEL:
-                        onCancelRecord();
-                        break;
-                    case MotionEvent.ACTION_UP:
-                        onStopRecord();
-                        break;
+                if (checkPremissions(1024,
+                        Manifest.permission.RECORD_AUDIO,
+                        Manifest.permission.MODIFY_AUDIO_SETTINGS,
+                        Manifest.permission.READ_EXTERNAL_STORAGE,
+                        Manifest.permission.WRITE_EXTERNAL_STORAGE)) {
+                    switch (event.getActionMasked()) {
+                        case MotionEvent.ACTION_DOWN:
+                            onStartRecord();
+                            break;
+                        case MotionEvent.ACTION_CANCEL:
+                            onCancelRecord();
+                            break;
+                        case MotionEvent.ACTION_UP:
+                            onStopRecord();
+                            break;
+                    }
                 }
                 return true;
             }
@@ -75,7 +98,7 @@ public class MainActivity extends AppCompatActivity {
 
             @Override
             public void onProgress(long time) {
-                Log.e("MainActivity", "onStartRecord "+time);
+                Log.e("MainActivity", "onStartRecord " + time);
             }
 
             @SuppressWarnings("unchecked")
